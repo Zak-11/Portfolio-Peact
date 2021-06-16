@@ -1,0 +1,41 @@
+.workBlock {
+    display: flex;
+    width: 290px;
+    background-color: darkgray;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+.workContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+
+
+.worke {
+
+    width: 100%;
+    height: 200px;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.ingIcon {
+    background-color: darkgray;
+    height: 30px;
+    width: 100px;
+
+
+}
+.description{
+
+
+}
