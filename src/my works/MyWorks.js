@@ -12,7 +12,7 @@ function MyWorks() {
                 <div className={style.works}>
 
                     <Work title={'Social network'}
-                          discription={'an online platform that is used for communication,' +
+                          discription={'An online platform that is used for communication,' +
                     ' dating, social relations between people who have interests or offline connections, as well as for' +
                     ' entertainment (music, films) and work.'}/>
                     <Work title={'Todolist'}
