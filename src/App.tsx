@@ -5,6 +5,7 @@ import Main from "./main/Main";
 import Skills from "./skils/Skills";
 import MyWorks from "./my works/MyWorks";
 import { Distant } from './distant/Distant';
+import { Contacts } from './contacts/Contacts';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
             <Skills/>
             <MyWorks/>
             <Distant/>
+            <Contacts/>
 
         </div>
     );

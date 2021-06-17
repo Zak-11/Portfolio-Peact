@@ -1,6 +1,10 @@
 .myBlock {
     min-height: 100vh;
     background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
 }
 
 
@@ -11,6 +15,8 @@
 
 .titleworks {
     background-color: darkgray;
+
+
 }
 
 

@@ -1,27 +1,25 @@
-.distantBlock{
+.contactsBlock {
     min-height: 100vh;
-    background-color: teal;
+    background-color: cyan;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: center;
-
 }
 
-.distantContainer{
+.contactsContainer {
     flex-direction: column;
 
-
 }
 
-.titleDistant{
-    background-color: aquamarine;
+.titleContacts {
+
+    background-color: lightgray;
     text-align: center;
     padding: 20px;
-
 }
 
-.distant {
+.contacts {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -29,9 +27,20 @@
     box-sizing: border-box;
 
 }
-.ingIcon{
+
+.sentIcon {
     background-color: darkgray;
     height: 30px;
-    width: 120px;
+    width: 100px;
+
+}
+
+.form {
+    width: 280px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
 
 }
