@@ -24,3 +24,8 @@
     box-sizing: border-box;
 
 }
+@media (max-width: 1093px){
+    .skills{
+        justify-content:center;
+    }
+}

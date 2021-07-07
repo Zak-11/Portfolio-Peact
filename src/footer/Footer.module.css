@@ -1,6 +1,6 @@
 .footerBlock {
     min-height: 100vh;
-    background-color: #feff9e;
+    background-color: #212529;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -40,4 +40,9 @@
     background-color: aquamarine;
     margin: 30px;
 
+}
+@media (max-width: 333px){
+    .footerSocialBlock{
+        justify-content:center;
+    }
 }

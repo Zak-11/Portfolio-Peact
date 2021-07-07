@@ -1,0 +1,25 @@
+.titleworks  {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    position: relative;
+    margin-top: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    position: relative;
+}
+
+
+.line {
+    left: 50%;
+    bottom: -6px;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 1px;
+    background-color: #f2c514;
+    position: absolute;
+
+}

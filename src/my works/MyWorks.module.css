@@ -1,6 +1,6 @@
 .myBlock {
     min-height: 100vh;
-    background-color: cornflowerblue;
+    background-color:  #fff;;;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -13,12 +13,6 @@
     justify-content: flex-start;
 }
 
-.titleworks {
-    background-color: darkgray;
-
-
-}
-
 
 .works {
     border: 1px solid;
@@ -28,4 +22,9 @@
     flex-wrap: wrap;
     box-sizing: border-box;
 
+}
+@media (max-width: 729px){
+    .works{
+        justify-content:center;
+    }
 }
