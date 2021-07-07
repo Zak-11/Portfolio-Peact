@@ -1,5 +1,5 @@
 .titleworks  {
-    font-family: 'Montserrat Subrayada', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
     text-align: center;
     font-size: 35px;
     line-height: 40px;
@@ -21,5 +21,6 @@
     height: 1px;
     background-color: #f2c514;
     position: absolute;
+    margin-bottom: 30px;
 
 }

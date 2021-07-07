@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd10a71a-48b9-4e51-a23e-da85f1e986c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/common/Project/Project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Project/Project.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Project/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Project/Project.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distant/Distant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/distant/Distant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distant/Distant.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/distant/Distant.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heder/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/heder/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my works/MyWorks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my works/MyWorks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my works/MyWorks.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/my works/MyWorks.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skils/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/skils/Skills.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/skils/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/skils/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skils/skill/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/skils/skill/Skill.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1623955725551" duration="3181000" />
       <workItem from="1623997344337" duration="347000" />
       <workItem from="1624049655343" duration="244000" />
-      <workItem from="1625580391751" duration="14193000" />
+      <workItem from="1625580391751" duration="20283000" />
     </task>
     <task id="LOCAL-00001" summary="'container'">
       <created>1624049825557</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624049825557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="'Project'">
+      <created>1625680437017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625680437017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'container'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'container'" />
+    <MESSAGE value="'Project'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'Project'" />
   </component>
 </project>

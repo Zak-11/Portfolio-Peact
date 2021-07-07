@@ -1,12 +1,14 @@
 import React from 'react';
 import style from './Footer.module.css'
 import styleContainer from "../common/styles/Container.module.css";
+import {Project} from "../common/Project/Project";
 
 export function Footer() {
     return (
         <div className={style.footerBlock}>
             <div className={`${styleContainer.container} ${style.footerContainer}`}>
-                <h2 className={style.titleFooter}>Diana Zak</h2>
+                <Project value = {'Diana Zak'}/>
+
                 <div className={style.footerSocialBlock}>
                    <div className={style.footerSocial}>
 
